@@ -1,8 +1,7 @@
 <h1 align="center"> Altium Designer Component EngineLibraries </h1>
 
+### 这是一个高度自动的项目，很少有人工干预
 
-
-### Altium Designer的个人元件库
 - 所有元件包含3D模型
 - 涵盖内容以控制类、自动化类所需的元件为主
 ---
